@@ -2,7 +2,7 @@
 
 ## how to use
 
-1. "[index.html](index.html)" をブラウザで開く。
+1. "[ES-Jam IchigoJamフォントバージョン]([index.html](https://taisukef.github.io/htmlprac/))" をブラウザで開く。
 
 ## license
 
