@@ -1,8 +1,8 @@
-# Webプログラミング 道場
+# ES-Jam - IchigoJam FONT ver.
 
 ## how to use
 
-1. "[index.html](index.html)" をブラウザで開く。
+1. "[ES-Jam - IchigoJam FONT ver.](https://taisukef.github.io/htmlprac/)" をブラウザで開く。
 
 ## license
 
